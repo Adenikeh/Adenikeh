@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-As a front-end developer with a year of coding experience, I've mastered HTML, CSS, and JavaScript, creating responsive and interactive websites. Currently, I'm expanding my skills by diving into ReactJS. My strong foundation in these technologies equips me to tackle complex projects and build high-performance web applications. I am excited about the possibilities ahead and aim to create smooth, engaging user experiences.
+As an aspiring front-end developer with a year of coding experience, I've mastered HTML, CSS, and JavaScript, creating responsive and interactive websites. Currently, I'm expanding my skills by diving into ReactJS. My strong foundation in these technologies equips me to tackle complex projects and build high-performance web applications. I am excited about the possibilities ahead and aim to create smooth, engaging user experiences.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adefehinti1@gmail.com](mailto:adefehinti1@gmail.com)
