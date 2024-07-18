@@ -8,7 +8,7 @@ As an aspiring front-end developer with a year of coding experience, I've master
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adefehinti1@gmail.com](mailto:adefehinti1@gmail.com)
-* 🚀  I'm currently working on [Adenikeh Blog](http://medium.com/@adefehinti1/528f365f6f92)
+* 🚀  I'm currently working on....
 * 🧠  I'm learning ReactJs
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a Registered Nurse
